@@ -1,6 +1,6 @@
 <h1>Scripthanesi Link Kısaltma Scripti</h1>
 
-<h3>Demo</h3>
+<h3>Demo</h3><hr>
 Demo Link: https://kisalink.scripthanesi.com
 
 
