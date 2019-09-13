@@ -1,4 +1,4 @@
-Scripthanesi Link Kısaltma Scripti
+<h1>Scripthanesi Link Kısaltma Scripti</h1>
 Demo
 Demo Link: https://kisalink.scripthanesi.com
 
