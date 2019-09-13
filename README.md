@@ -23,8 +23,9 @@ Github: https://github.com/ScriptHanesi/scripthanesi-link-kisaltma-scripti/
 <b>English</b> The default language is Turkish. To make the language English, copy everything in "language.php" and paste it into "dil.php".
 
 
-İletişim-Contacts
+<h3>İletişim-Contacts</h3><hr>
+
 İletişim: Mail(önerilen): info@scripthanesi.com | zulkuf.yalcin@scripthanesi.com | Link: https://www.scripthanesi.com/iletisim
 
-Scripthanesi PHP Link Kısaltma Scripti 
-Scripthanesi PHP Link Shortener Script
+
+Scripthanesi PHP Link Kısaltma Scripti Scripthanesi PHP Link Shortener Script
