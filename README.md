@@ -6,6 +6,7 @@ Demo Link: https://kisalink.scripthanesi.com
 <h3>İndirme-Download</h3><hr>
 
 Yandex: https://yadi.sk/d/qQ8Kn1Rj998_Nw
+
 Github: https://github.com/ScriptHanesi/scripthanesi-link-kisaltma-scripti/
 
 <h3>Kurulum-Install</h3><hr>
